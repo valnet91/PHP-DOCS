@@ -2,7 +2,7 @@
 
 ```mermaid
 gitGraph:
-commit
+commit id: "Normal" tag: "v1.0.0"
 branch newbranch
 checkout newbranch
 commit
