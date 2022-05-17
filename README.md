@@ -2,7 +2,9 @@
 
 ```mermaid
 
-gitGraph: {showBranches: false}
+gitGraph: 
+
+showBranches: false
 
 commit id: "Normal" tag: "v1.0.0"
 branch newbranch
