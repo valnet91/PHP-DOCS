@@ -21,6 +21,8 @@ pie title Quel temps fera-t-il demain ?
          "Beau" : 70
          "Pluie et nuages" : 40
 ```
+
+```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
       gitGraph
         commit
@@ -64,3 +66,4 @@ pie title Quel temps fera-t-il demain ?
         merge main
         checkout develop
         merge release
+        ```
