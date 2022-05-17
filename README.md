@@ -4,7 +4,6 @@
 
 gitGraph: 
 
-showBranches: false
 
 commit id: "Normal" tag: "v1.0.0"
 branch newbranch
@@ -24,7 +23,7 @@ pie title Quel temps fera-t-il demain ?
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
-      gitGraph
+      gitGraph:
         commit
         branch hotfix
         checkout hotfix
