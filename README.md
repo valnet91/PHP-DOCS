@@ -1,8 +1,9 @@
 # README.MD
 
 ```mermaid
-gitGraph:
-{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }
+
+gitGraph: {'showBranches': false}
+
 commit id: "Normal" tag: "v1.0.0"
 branch newbranch
 checkout newbranch
