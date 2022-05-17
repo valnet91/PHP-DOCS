@@ -18,6 +18,7 @@ pie title Quel temps fera-t-il demain ?
          "Pluie et nuages" : 40
 ```
 
+
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
 gitGraph
