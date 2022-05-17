@@ -22,7 +22,7 @@ pie title Quel temps fera-t-il demain ?
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
 gitGraph
-commit id: "Normal" tag: "v1.0.1"
+commit id: "Normal" tag: "v1.0.2"
 branch newbranch
 checkout newbranch
 commit
