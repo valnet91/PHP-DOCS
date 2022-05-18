@@ -36,7 +36,7 @@ merge newbranch
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
 gitGraph
-commit id: "Normal" tag: "v1.0.2"
+commit id: "Normal" tag: "v1.0.3"
 branch newbranch
 checkout newbranch
 commit
